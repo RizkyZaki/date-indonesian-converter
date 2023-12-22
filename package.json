@@ -1,6 +1,6 @@
 {
   "name": "date-indonesia-converter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Formater Timestamp To Indonesian Date",
   "main": "index.js",
   "scripts": {
