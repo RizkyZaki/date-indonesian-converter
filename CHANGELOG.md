@@ -4,6 +4,8 @@
 
 - Initial release
 
-## 1.0.1
+## 1.0.4
 
 - Fixing Some Stuff
+- Change Configuration
+- Fixing Module ES6
